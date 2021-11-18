@@ -1,6 +1,6 @@
 # Ping Service
 
-A simple service to echo requests via websockets, can be useful for measuring 
+A small and basic service to echo requests made via websockets, can be useful for measuring 
 latency between clients and this service.
 
 ### Run
