@@ -1,7 +1,7 @@
 # Remote Desktop Ping Service
 
-A simple ping / echo service written in Go.
-Can be used to calculate latency to guacamole.
+A simple service to echo requests via websockets, can be useful for measuring 
+latency between clients and this service.
 
 ### Run
 ```sh
