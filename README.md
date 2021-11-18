@@ -1,4 +1,4 @@
-# Remote Desktop Ping Service
+# Ping Service
 
 A simple service to echo requests via websockets, can be useful for measuring 
 latency between clients and this service.
